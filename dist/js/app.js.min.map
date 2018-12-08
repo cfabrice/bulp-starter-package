@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["console","log"],"mappings":"AAAA,YACAA,SAAQC,IAAI","file":"app.js","sourcesContent":["// Place JS here.\nconsole.log('ehllo');\n"],"sourceRoot":"/source/"}
